@@ -14,5 +14,9 @@ namespace mysolution
             //update my1
             //update my2
         }
+
+        private void peter()
+        {
+        }
     }
 }
