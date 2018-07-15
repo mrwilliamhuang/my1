@@ -10,13 +10,12 @@ namespace mysolution
     {
         static void Main(string[] args)
         {
-            //my1 update on my2
-            //update my1
-            //update my2
+            //william
         }
 
-        private void peter()
+        private void william()
         {
+            //william2
         }
     }
 }
